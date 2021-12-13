@@ -1,15 +1,6 @@
 *.log
 *.tmp
-key.php
-server-key.php
 Build/
 vendor/
 node_modules/
-xdesign-x-*
-xdesigner-x-*
-backup
-/*.key
-/*.nogit
-/*.html
-/*.mjs
-instance/
+
